@@ -1,0 +1,9 @@
+.click-btn{
+    background-color: rgb(255, 251, 0);
+    color: black;
+    transition: 0.2s;
+}
+
+.click-btn:hover{
+    background-color: rgba(255, 251, 0, 0.651);
+}
