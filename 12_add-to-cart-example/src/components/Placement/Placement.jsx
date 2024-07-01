@@ -3,7 +3,7 @@ import SingleCart from '../SingleCart/SingleCart';
 
 const Placement = ({cart}) => {
 
-    console.log(cart);
+    // console.log(cart);
 
   return (
     <div className=' border-2'>
