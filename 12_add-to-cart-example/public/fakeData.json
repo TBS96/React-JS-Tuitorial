@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "phone_no": "+1-555-1234",
+        "email": "john.doe@example.com",
+        "company": "Example Corp",
+        "website": "www.example.com",
+        "age": 28,
+        "profession": "Software Engineer",
+        "img": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "phone_no": "+1-555-5678",
+        "email": "jane.smith@example.com",
+        "company": "Tech Solutions",
+        "website": "www.techsolutions.com",
+        "age": 34,
+        "profession": "Project Manager",
+        "img": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Michael Brown",
+        "phone_no": "+1-555-9101",
+        "email": "michael.brown@example.com",
+        "company": "Innovatech",
+        "website": "www.innovatech.com",
+        "age": 40,
+        "profession": "CTO",
+        "img": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Emily Davis",
+        "phone_no": "+1-555-1122",
+        "email": "emily.davis@example.com",
+        "company": "Web Works",
+        "website": "www.webworks.com",
+        "age": 29,
+        "profession": "Frontend Developer",
+        "img": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "David Wilson",
+        "phone_no": "+1-555-3344",
+        "email": "david.wilson@example.com",
+        "company": "App Creators",
+        "website": "www.appcreators.com",
+        "age": 35,
+        "profession": "Backend Developer",
+        "img": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Sarah Johnson",
+        "phone_no": "+1-555-5566",
+        "email": "sarah.johnson@example.com",
+        "company": "Design Hub",
+        "website": "www.designhub.com",
+        "age": 32,
+        "profession": "UX/UI Designer",
+        "img": "https://randomuser.me/api/portraits/women/6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Chris Lee",
+        "phone_no": "+1-555-7788",
+        "email": "chris.lee@example.com",
+        "company": "Marketing Pros",
+        "website": "www.marketingpros.com",
+        "age": 45,
+        "profession": "Marketing Manager",
+        "img": "https://randomuser.me/api/portraits/men/7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Anna White",
+        "phone_no": "+1-555-9900",
+        "email": "anna.white@example.com",
+        "company": "Data Insights",
+        "website": "www.datainsights.com",
+        "age": 27,
+        "profession": "Data Scientist",
+        "img": "https://randomuser.me/api/portraits/women/8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "James Green",
+        "phone_no": "+1-555-2233",
+        "email": "james.green@example.com",
+        "company": "AI Innovations",
+        "website": "www.aiinnovations.com",
+        "age": 38,
+        "profession": "AI Researcher",
+        "img": "https://randomuser.me/api/portraits/men/9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Laura Black",
+        "phone_no": "+1-555-4455",
+        "email": "laura.black@example.com",
+        "company": "Cyber Secure",
+        "website": "www.cybersecure.com",
+        "age": 31,
+        "profession": "Cybersecurity Analyst",
+        "img": "https://randomuser.me/api/portraits/women/10.jpg"
+    }
+]
